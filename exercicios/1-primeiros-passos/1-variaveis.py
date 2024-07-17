@@ -9,3 +9,6 @@
 
 
 # Declare uma variável do tipo booleano
+nome = Carlos
+inteiro = 10
+decimal = 10.10
